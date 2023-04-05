@@ -76,4 +76,3 @@ app.listen(3000, function(){
   console.log("Server started on port 3000");
 });
 
-// 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  API key
